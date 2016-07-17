@@ -1,5 +1,5 @@
 == README
 
-This is a basic Ruby on Rails app with users and posts. Devise was used to implement users.
+This is a basic Ruby on Rails app with users and posts. Devise and CanCanCan were used to handle users (authentication and roles)
 
-I learned how to work with devise while building this app.
+I learned how to work with devise and CanCanCan while building this app.
