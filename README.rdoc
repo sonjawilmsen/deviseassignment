@@ -1,5 +1,3 @@
 == README
 
-This is a basic Ruby on Rails app with users and posts. Devise and CanCanCan were used to handle users (authentication and roles)
-
-I learned how to work with devise and CanCanCan while building this app.
+This is a basic Ruby on Rails app with users and posts. Devise and CanCanCan were used to handle users (authentication and roles). It was made in the 2nd week of the Codaisseur program. The app is very basic and ment to learn Devise and CanCanCan.
